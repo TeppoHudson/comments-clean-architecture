@@ -11,6 +11,7 @@ Functionalities:
 - Can nest comments if in the API payload the replyToId is defined
 - Comments do not have author info (for security), but that can is fetched from another db
 - automatically saves source info (IP etc...)
+- No entity, function etc are tightly coupled. We only couple the entities and rules in runtime.
 
 
 #depency node libraries
