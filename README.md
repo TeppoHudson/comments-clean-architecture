@@ -4,7 +4,7 @@ Sample of clean architecture as comments in Javascript. Using node.js and expres
 
 
 ## Clean Architecture concept
-
+![Clean_architecture_concept](clean_architecture_concept.png)
 
 ## Functionalities:
 - Add comments
