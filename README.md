@@ -3,8 +3,10 @@ Sample of clean architecture as comments in Javascript. Using node.js and expres
 
 
 
-#Clean Architecture concept
-Functionalities:
+## Clean Architecture concept
+
+
+## Functionalities:
 - Add comments
 - Get comments
 - Build in hash-check that comments cannot be dublicated
@@ -14,7 +16,7 @@ Functionalities:
 - No entity, function etc are tightly coupled. We only couple the entities and rules in runtime.
 
 
-#depency node libraries
+## depency node libraries
 express
 sanitize-html
 ip-regex
