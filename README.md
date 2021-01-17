@@ -17,8 +17,8 @@ Sample of clean architecture as comments in Javascript. Using node.js and expres
 
 
 ## depency node libraries
-express
-sanitize-html
-ip-regex
-crypto
+- express
+- sanitize-html
+- ip-regex
+- crypto
 
